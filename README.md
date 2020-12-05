@@ -23,6 +23,7 @@ Output Variable:
 For predicting the wine quality, the attribute quality will become our label and the rest of the attributes will become the features.
 
 
+
 ## CONCLUSION 
 Among all the model's Decision Tree Classifier was a good fir for predicting the quality of the wine. Random Forest classifier can also be considered in the future as the Decision tree classifier yield good accuracy.
 We can also observe that the False Negative is the least for Decision Tree Classifier and it made a good prediction.
